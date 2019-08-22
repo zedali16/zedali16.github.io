@@ -25,7 +25,7 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 
 ## Teaching
 
-### At Baruch College
+### At Baruch College, The City University of New York
 1. STA 2000: Business Statistics I
 2. STA 3154: Business Statistics II
 3. STA 9701: Time Series: Forecasting and Statistical Modeling
