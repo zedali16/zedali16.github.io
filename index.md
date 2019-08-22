@@ -21,3 +21,18 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 5. Dong, Y., Xia, Q., Tang, C.Y., and **Li, Z.** (2018) "[On sufficient dimension reduction with missing responses through estimating equations](https://www.sciencedirect.com/science/article/pii/S0167947318300951)." _Computational Statistics and Data Analysis_. 126, 67-77.
 
 6. Esbenshade, A., Sopfe, J., Zhao, Z., **Li, Z.**, Campbell, K., Simmons, J., and Henry, K. (2014) "Overweight pediatric cancer survivors have a high risk of vitamin D insufficiency." _Pediatric Blood & Cancer_ 61, 723-728.
+
+
+### Teaching
+
+## At Baruch College
+1. STA 2000: Business Statistics I
+2. STA 3154: Business Statistics II
+3. STA 9701: Time Series: Forecasting and Statistical Modeling
+4. STA 9708: Managerial Statistics
+
+## At Temple University
+1. STAT 1001: Quantitative Methods for Business I
+2. STAT 1102: Quantitative Methods for Business II
+3. STAT 2103: Business Statistical Analytics
+4. First-year Ph.D. student Math Camp
