@@ -1,6 +1,7 @@
- ## About me
 
-I am Assistant Professor of statistics in the Paul H. Chook Department of Information System and Statistics, Zicklin School of Business, Baruch College, CUNY. I earned my Ph.D. in Statistics from the Department of Statistical Science, Temple Univeristy. My research interests include: time series analysis, spectral analysis, Nonparametric statistics, Bayesian computational methods, dimension reduction, and variable selection.
+I am Assistant Professor of statistics in the Paul H. Chook Department of Information System and Statistics, Zicklin School of Business, Baruch College, CUNY. 
+
+I earned my Ph.D. in Statistics from the Department of Statistical Science, Temple Univeristy. My advisors are William W.S. Wei and Robert Krafty. My research interests include: time series analysis, spectral analysis, Nonparametric statistics, Bayesian computational methods, dimension reduction, and variable selection.
 
 
 You can use the [editor on GitHub](https://github.com/zedali16/zedali16.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
