@@ -3,13 +3,13 @@ I am Assistant Professor of statistics in the Paul H. Chook Department of Inform
 
 I earned my Ph.D. in Statistics from the Department of Statistical Science, Temple Univeristy. My advisors are [William W.S. Wei](https://astro.temple.edu/~wwei/) and [Robert Krafty](https://www.publichealth.pitt.edu/home/directory/robert-krafty). My research interests include: time series analysis, spectral analysis, Nonparametric statistics, Bayesian computational methods, dimension reduction, and variable selection.
 
-### Contact
+## Contact
 
 - One Bernard Baruch Way, New York, NY 10010
 - Email: zeda.li at baruch.cuny.edu
 - Phone: (646) 312-3379
 
-### Publications
+## Publications
 1. **Li, Z.** and Krafty, R.T. (2019) "[Adaptive Bayesian time-frequency analysis of multivariate time series](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2017.1415908)." _Journal of the American Statistical Association_. 114, 453-465.
 
 2. Bruce, S., **Li, Z.**, Yang, H.C., and Mukhopadhyay, S. (2019) "[Nonparametric distributed learning architecture for big data: Algorithm and applications](https://ieeexplore.ieee.org/document/8303780)." _IEEE Transactions on Big Data_. 5, 166-179.
@@ -23,15 +23,15 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 6. Esbenshade, A., Sopfe, J., Zhao, Z., **Li, Z.**, Campbell, K., Simmons, J., and Henry, K. (2014) "Overweight pediatric cancer survivors have a high risk of vitamin D insufficiency." _Pediatric Blood & Cancer_ 61, 723-728.
 
 
-### Teaching
+## Teaching
 
-## At Baruch College
+### At Baruch College
 1. STA 2000: Business Statistics I
 2. STA 3154: Business Statistics II
 3. STA 9701: Time Series: Forecasting and Statistical Modeling
 4. STA 9708: Managerial Statistics
 
-## At Temple University
+### At Temple University
 1. STAT 1001: Quantitative Methods for Business I
 2. STAT 1102: Quantitative Methods for Business II
 3. STAT 2103: Business Statistical Analytics
