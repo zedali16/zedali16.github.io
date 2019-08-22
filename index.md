@@ -1,4 +1,4 @@
- ##About me
+ ## About me
 
 I am Assistant Professor of statistics in the Paul H. Chook Department of Information System and Statistics, Zicklin School of Business, Baruch College, CUNY. I earned my Ph.D. in Statistics from the Department of Statistical Science, Temple Univeristy. My research interests include: time series analysis, spectral analysis, Nonparametric statistics, Bayesian computational methods, dimension reduction, and variable selection.
 
