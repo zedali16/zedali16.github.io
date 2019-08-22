@@ -3,7 +3,11 @@ I am Assistant Professor of statistics in the Paul H. Chook Department of Inform
 
 I earned my Ph.D. in Statistics from the Department of Statistical Science, Temple Univeristy. My advisors are [William W.S. Wei](https://astro.temple.edu/~wwei/) and [Robert Krafty](https://www.publichealth.pitt.edu/home/directory/robert-krafty). My research interests include: time series analysis, spectral analysis, Nonparametric statistics, Bayesian computational methods, dimension reduction, and variable selection.
 
-### Markdown
+### Contact
+
+- One Bernard Baruch Way, New York, NY 10010
+- Email:zeda.li at baruch.cuny.edu
+- Phone: (646) 312-3379
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
