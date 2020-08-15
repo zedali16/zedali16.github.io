@@ -10,21 +10,24 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 - Phone: (646) 312-3379
 
 ## Publications
-1. **Li, Z.**, Rosen, O., Ferrarelli, F, and Krafty, R.T. (2019+) "[Adaptive Bayesian Spectral Analysis of High-Dimensional Nonstationary Time Series](https://arxiv.org/abs/1910.12126)." _Submitted_. 
 
-2. **Li, Z.** and Dong, Y. (2020) "Model-Free Variable Selection with Matrix-Valued Predictors." _Journal of Computational and Graphic Statistics_. _To appear_. 
+- **Li, Z.**, Bruce, S., Wutzke, C., Long, Y. (2020+) "Conditional Adaptive Bayesian Spectral Analysis of Replicated Multivariate Time Series." _Submitted_
 
-3. **Li, Z.** and Krafty, R.T. (2019) "[Adaptive Bayesian time-frequency analysis of multivariate time series](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2017.1415908)." _Journal of the American Statistical Association_. 114, 453-465.
+- **Li, Z.**, Rosen, O., Ferrarelli, F, and Krafty, R.T. (2020+) "[Adaptive Bayesian Spectral Analysis of High-Dimensional Nonstationary Time Series](https://arxiv.org/abs/1910.12126)." _Submitted_. 
 
-4. Bruce, S., **Li, Z.**, Yang, H.C., and Mukhopadhyay, S. (2019) "[Nonparametric distributed learning architecture for big data: Algorithm and applications](https://ieeexplore.ieee.org/document/8303780)." _IEEE Transactions on Big Data_. 5, 166-179.
+- **Li, Z.** and Dong, Y. (2020+) "[Model-Free Variable Selection with Matrix-Valued Predictors](https://www.tandfonline.com/doi/full/10.1080/10618600.2020.1806854)." _Journal of Computational and Graphic Statistics_. _To appear_. 
 
-5. **Li, Z.** and Bruce, S. (2018) Discussion of "The statistical analysis of acoustic phonetic data: exploring differences between spoken Romance languages." _Journal of the Royal Statistical Society, Series C_. 67, 1103-1145.
+- **Li, Z.** and Krafty, R.T. (2019) "[Adaptive Bayesian time-frequency analysis of multivariate time series](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2017.1415908)." _Journal of the American Statistical Association_. 114, 453-465.
 
-6. Dong, Y. and **Li, Z.** (2018) "[On sliced inverse regression with response missing at random](https://www.tandfonline.com/doi/abs/10.1080/10485252.2018.1508677)." _Journal of Nonparametric Statistics_. 30, 990-1002.
+- Bruce, S., **Li, Z.**, Yang, H.C., and Mukhopadhyay, S. (2019) "[Nonparametric distributed learning architecture for big data: Algorithm and applications](https://ieeexplore.ieee.org/document/8303780)." _IEEE Transactions on Big Data_. 5, 166-179.
 
-7. Dong, Y., Xia, Q., Tang, C.Y., and **Li, Z.** (2018) "[On sufficient dimension reduction with missing responses through estimating equations](https://www.sciencedirect.com/science/article/pii/S0167947318300951)." _Computational Statistics and Data Analysis_. 126, 67-77.
+- **Li, Z.** and Bruce, S. (2018) Discussion of "The statistical analysis of acoustic phonetic data: exploring differences between spoken Romance languages." _Journal of the Royal Statistical Society, Series C_. 67, 1103-1145.
 
-8. Esbenshade, A., Sopfe, J., Zhao, Z., **Li, Z.**, Campbell, K., Simmons, J., and Henry, K. (2014) "Overweight pediatric cancer survivors have a high risk of vitamin D insufficiency." _Pediatric Blood & Cancer_ 61, 723-728.
+- Dong, Y. and **Li, Z.** (2018) "[On sliced inverse regression with response missing at random](https://www.tandfonline.com/doi/abs/10.1080/10485252.2018.1508677)." _Journal of Nonparametric Statistics_. 30, 990-1002.
+
+- Dong, Y., Xia, Q., Tang, C.Y., and **Li, Z.** (2018) "[On sufficient dimension reduction with missing responses through estimating equations](https://www.sciencedirect.com/science/article/pii/S0167947318300951)." _Computational Statistics and Data Analysis_. 126, 67-77.
+
+- Esbenshade, A., Sopfe, J., Zhao, Z., **Li, Z.**, Campbell, K., Simmons, J., and Henry, K. (2014) "Overweight pediatric cancer survivors have a high risk of vitamin D insufficiency." _Pediatric Blood & Cancer_ 61, 723-728.
 
 
 ## Teaching
