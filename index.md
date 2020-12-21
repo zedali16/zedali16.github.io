@@ -11,11 +11,13 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 
 ## Publications
 
-- **Li, Z.**, Bruce, S., Wutzke, C., Long, Y. (2020+) "Conditional Adaptive Bayesian Spectral Analysis of Replicated Multivariate Time Series." _Submitted_
+- **Li, Z.**, Bruce, S. and Cai, T. (2021+) "Classification of Categorical Time Series Using the Spectral Envelope and Optimal Scalings." _Submitted_
+
+- **Li, Z.**, Bruce, S., Wutzke, C., Long, Y. (2021+) "Conditional Adaptive Bayesian Spectral Analysis of Replicated Multivariate Time Series." _Submitted_
 
 - **Li, Z.**, Rosen, O., Ferrarelli, F, and Krafty, R.T. (2021+) "[Adaptive Bayesian Spectral Analysis of High-Dimensional Nonstationary Time Series](https://arxiv.org/abs/1910.12126)." _Journal of Computational and Graphical Statistics_. _To appear_.  
 
-- **Li, Z.** and Dong, Y. (2020+) "[Model-Free Variable Selection with Matrix-Valued Predictors](https://www.tandfonline.com/doi/full/10.1080/10618600.2020.1806854)." _Journal of Computational and Graphical Statistics_. _To appear_. 
+- **Li, Z.** and Dong, Y. (2021+) "[Model-Free Variable Selection with Matrix-Valued Predictors](https://www.tandfonline.com/doi/full/10.1080/10618600.2020.1806854)." _Journal of Computational and Graphical Statistics_. _To appear_. 
 
 - **Li, Z.** and Krafty, R.T. (2019) "[Adaptive Bayesian time-frequency analysis of multivariate time series](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2017.1415908)." _Journal of the American Statistical Association_. 114, 453-465.
 
