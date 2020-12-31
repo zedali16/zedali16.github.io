@@ -13,7 +13,7 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 
 - **Li, Z.**, Bruce, S. and Cai, T. (2021+) "Classification of Categorical Time Series Using the Spectral Envelope and Optimal Scalings." _Submitted_
 
-- **Li, Z.**, Bruce, S., Wutzke, C., Long, Y. (2021+) "Conditional Adaptive Bayesian Spectral Analysis of Replicated Multivariate Time Series." _Submitted_
+- **Li, Z.**, Bruce, S., Wutzke, C., Long, Y. (2021+) "Conditional Adaptive Bayesian Spectral Analysis of Replicated Multivariate Time Series." _Statistics in Medicine_. _To appear_.
 
 - **Li, Z.**, Rosen, O., Ferrarelli, F, and Krafty, R.T. (2021+) "[Adaptive Bayesian Spectral Analysis of High-Dimensional Nonstationary Time Series](https://arxiv.org/abs/1910.12126)." _Journal of Computational and Graphical Statistics_. _To appear_.  
 
