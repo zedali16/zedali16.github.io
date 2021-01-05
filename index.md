@@ -1,7 +1,7 @@
 
 I am Assistant Professor of statistics in the Paul H. Chook Department of Information System and Statistics, Zicklin School of Business, Baruch College, CUNY. 
 
-I earned my Ph.D. in Statistics from the Department of Statistical Science, Temple Univeristy under [William W.S. Wei](https://astro.temple.edu/~wwei/) and [Robert Krafty](https://www.publichealth.pitt.edu/home/directory/robert-krafty). My research interests include: time series analysis, spectral analysis, Nonparametric statistics, Bayesian computational methods, dimension reduction, and variable selection.
+I earned my Ph.D. in Statistics from the Department of Statistical Science, Temple Univeristy under [William W.S. Wei](https://sites.temple.edu/wwei/) and [Robert Krafty](https://sph.emory.edu/faculty/profile/index.php?FID=robert-krafty-10974). My research interests include: time series analysis, spectral analysis, Nonparametric statistics, Bayesian computational methods, dimension reduction, and variable selection.
 
 ## Contact
 
@@ -17,7 +17,7 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 
 - **Li, Z.**, Bruce, S., Wutzke, C., Long, Y. (2021+) "Conditional Adaptive Bayesian Spectral Analysis of Replicated Multivariate Time Series." _Statistics in Medicine_. _To appear_.
 
-- **Li, Z.**, Rosen, O., Ferrarelli, F, and Krafty, R.T. (2021+) "[Adaptive Bayesian Spectral Analysis of High-Dimensional Nonstationary Time Series](https://arxiv.org/abs/1910.12126)." _Journal of Computational and Graphical Statistics_. _To appear_.  
+- **Li, Z.**, Rosen, O., Ferrarelli, F, and Krafty, R.T. (2021+) "[Adaptive Bayesian Spectral Analysis of High-Dimensional Nonstationary Time Series](https://www.tandfonline.com/doi/full/10.1080/10618600.2020.1868305)." _Journal of Computational and Graphical Statistics_. _To appear_.  
 
 - **Li, Z.** and Dong, Y. (2021+) "[Model-Free Variable Selection with Matrix-Valued Predictors](https://www.tandfonline.com/doi/full/10.1080/10618600.2020.1806854)." _Journal of Computational and Graphical Statistics_. _To appear_. 
 
