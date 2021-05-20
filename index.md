@@ -19,7 +19,7 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 
 - **Li, Z.**, Bruce, S., Wutzke, C., Long, Y. (2021) "[Conditional Adaptive Bayesian Spectral Analysis of Replicated Multivariate Time Series](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8884)." _Statistics in Medicine_. 40, 1989–2005.
 
-- **Li, Z.** and Dong, Y. (2021+) "[Model-Free Variable Selection with Matrix-Valued Predictors](https://www.tandfonline.com/doi/full/10.1080/10618600.2020.1806854)." _Journal of Computational and Graphical Statistics_. _To appear_. 
+- **Li, Z.** and Dong, Y. (2021) "[Model-Free Variable Selection with Matrix-Valued Predictors](https://www.tandfonline.com/doi/full/10.1080/10618600.2020.1806854)." _Journal of Computational and Graphical Statistics_. 30, 171-178. 
 
 - **Li, Z.** and Krafty, R.T. (2019) "[Adaptive Bayesian time-frequency analysis of multivariate time series](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2017.1415908)." _Journal of the American Statistical Association_. 114, 453-465.
 
