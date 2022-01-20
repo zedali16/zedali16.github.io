@@ -11,11 +11,11 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 
 ## Publications
 
-- Wang, Y., **Li, Z.**, Bruce, S. (2021+) "Adaptive Bayesian Sum of Trees Model for Covariate Dependent Spectral Analysis." _Submitted_
+- Wang, Y., **Li, Z.**, Bruce, S. (2022+) "Adaptive Bayesian Sum of Trees Model for Covariate Dependent Spectral Analysis." _Submitted_
 
-- **Li, Z.**, Bruce, S. and Cai, T. (2021+) "Classification of Categorical Time Series Using the Spectral Envelope and Optimal Scalings." _Submitted_
+- **Li, Z.**, Bruce, S. and Cai, T. (2022+) "Classification of Categorical Time Series Using the Spectral Envelope and Optimal Scalings." _Submitted_
 
-- **Li, Z.** (2021+) "Robust Conditional Spectral Analysis of Replicated Time Series." _Statistics and Its Interface_. _To appear_.
+- **Li, Z.** (2022+) "Robust Conditional Spectral Analysis of Replicated Time Series." _Statistics and Its Interface_. _To appear_.
 
 - **Li, Z.**, Rosen, O., Ferrarelli, F, and Krafty, R.T. (2021) "[Adaptive Bayesian Spectral Analysis of High-Dimensional Nonstationary Time Series](https://www.tandfonline.com/doi/full/10.1080/10618600.2020.1868305)." _Journal of Computational and Graphical Statistics_. 30, 794-807.  
 
@@ -45,6 +45,7 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 4. STA 9701: Time Series: Forecasting and Statistical Modeling
 5. STA 9708: Managerial Statistics
 6. STA 9719: Foundations of Statistical Inferences
+7. STAT 70500: Multivariate Statistical Mehods
 
 ### At Temple University
 1. STAT 1001: Quantitative Methods for Business I
