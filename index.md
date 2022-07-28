@@ -10,12 +10,13 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 - Phone: (646) 312-3379
 
 ## Publications
+- **Li, Z.**, Yue, Y., and Bruce, S. (2022+) "Adaptive Bayesian Sum of Trees Model for Covariate Dependent Spectral Analysis." _Submitted_
 
 - Wang, Y., **Li, Z.**, Bruce, S. (2022+) "Adaptive Bayesian Sum of Trees Model for Covariate Dependent Spectral Analysis." _Submitted_
 
 - **Li, Z.**, Bruce, S. and Cai, T. (2022+) "Classification of Categorical Time Series Using the Spectral Envelope and Optimal Scalings." _Submitted_
 
-- **Li, Z.** (2022+) "Robust Conditional Spectral Analysis of Replicated Time Series." _Statistics and Its Interface_. _To appear_.
+- **Li, Z.** (2023) "Robust Conditional Spectral Analysis of Replicated Time Series." _Statistics and Its Interface_. 16, 81-96.
 
 - **Li, Z.**, Rosen, O., Ferrarelli, F, and Krafty, R.T. (2021) "[Adaptive Bayesian Spectral Analysis of High-Dimensional Nonstationary Time Series](https://www.tandfonline.com/doi/full/10.1080/10618600.2020.1868305)." _Journal of Computational and Graphical Statistics_. 30, 794-807.  
 
