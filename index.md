@@ -10,7 +10,7 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 - Phone: (646) 312-3379
 
 ## Publications
-- **Li, Z.**, Yue, Y., and Bruce, S. (2022+) "Adaptive Bayesian Sum of Trees Model for Covariate Dependent Spectral Analysis." _Submitted_
+- **Li, Z.**, Yue, Y., and Bruce, S. (2022+) "Functional ANOVA Spectral Analysis of Replicated Nonstationary Time Series." _Submitted_
 
 - Wang, Y., **Li, Z.**, Bruce, S. (2022+) "Adaptive Bayesian Sum of Trees Model for Covariate Dependent Spectral Analysis." _Submitted_
 
