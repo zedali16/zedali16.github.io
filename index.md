@@ -46,7 +46,9 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 4. STA 9701: Time Series: Forecasting and Statistical Modeling
 5. STA 9708: Managerial Statistics
 6. STA 9719: Foundations of Statistical Inferences
-7. STAT 70500: Multivariate Statistical Mehods
+
+### At Graduate Center, The City University of New York
+1. STAT 70500: Multivariate Statistical Mehods
 
 ### At Temple University
 1. STAT 1001: Quantitative Methods for Business I
