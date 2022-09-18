@@ -14,7 +14,7 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 
 - **Li, Z.**, Bruce, S. and Cai, T. (2022+) "Classification of Categorical Time Series Using the Spectral Envelope and Optimal Scalings." _Submitted_
 
-- **Li, Z.** (2023) "Robust Conditional Spectral Analysis of Replicated Time Series." _Statistics and Its Interface_. 16, 81-96.
+- **Li, Z.** (2023) "[Robust Conditional Spectral Analysis of Replicated Time Series](https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0016/0001/a007/index.php)." _Statistics and Its Interface_. 16, 81-96.
 
 - Wang, Y., **Li, Z.**, Bruce, S. (2022+) "Adaptive Bayesian Sum of Trees Model for Covariate Dependent Spectral Analysis." _Biometrics, To appear._
 
