@@ -9,10 +9,11 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 - Email: zeda.li at baruch.cuny.edu
 - Phone: (646) 312-3379
 
-## Publications
+## Publications 
+
 - **Li, Z.**, Yue, Y., and Bruce, S. (2022+) "Functional ANOVA Spectral Analysis of Replicated Nonstationary Time Series." _Submitted_
 
-- **Li, Z.**, Bruce, S. and Cai, T. (2022+) "Interpretable Classification of Categorical Time Series Using the Spectral Envelope and Optimal Scalings." _Journal of Machine Learning Research, To appear._
+- **Li, Z.**, Bruce, S. and <sup> *</sup>Cai, T. (2022+) "Interpretable Classification of Categorical Time Series Using the Spectral Envelope and Optimal Scalings." _Journal of Machine Learning Research, To appear._
 
 - **Li, Z.** (2023) "[Robust Conditional Spectral Analysis of Replicated Time Series](https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0016/0001/a007/index.php)." _Statistics and Its Interface_. 16, 81-96.
 
