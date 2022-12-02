@@ -20,7 +20,7 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 
 - <sup> *</sup>Wang, Y., **Li, Z.**, Bruce, S. (2022+) "[Adaptive Bayesian Sum of Trees Model for Covariate Dependent Spectral Analysis](https://onlinelibrary.wiley.com/doi/10.1111/biom.13763)." _Biometrics, To appear._
 
-- **Li, Z.**, Bruce, S. and <sup> *</sup>Cai, T. (2022+) "[Interpretable Classification of Categorical Time Series Using the Spectral Envelope and Optimal Scalings](https://www.jmlr.org/papers/volume23/21-0369/21-0369.pdf)." _Journal of Machine Learning Research, 23, 1-31.
+- **Li, Z.**, Bruce, S. and <sup> *</sup>Cai, T. (2022) "[Interpretable Classification of Categorical Time Series Using the Spectral Envelope and Optimal Scalings](https://www.jmlr.org/papers/volume23/21-0369/21-0369.pdf)." _Journal of Machine Learning Research, 23, 1-31.
 
 - **Li, Z.**, Rosen, O., Ferrarelli, F, and Krafty, R.T. (2021) "[Adaptive Bayesian Spectral Analysis of High-Dimensional Nonstationary Time Series](https://www.tandfonline.com/doi/full/10.1080/10618600.2020.1868305)." _Journal of Computational and Graphical Statistics_. 30, 794-807.  
 
