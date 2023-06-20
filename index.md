@@ -12,10 +12,10 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 ## Publications 
 (<sup> *</sup> denotes student authors)
 
-- **Li, Z.**, Yue, Y., and Bruce, S. (2023+) "ANOPOW for Replicated Nonstationary Time Series In Experiments." _Submitted_
-
 - **Li, Z.** and Wei, W. (2023+) "Measuring the Advantages of Contemporaneous Aggregation in Forecasting." _Submitted_
 
+- **Li, Z.**, Yue, Y., and Bruce, S. (2023+) "ANOPOW for Replicated Nonstationary Time Series In Experiments." _Annals of Applied Statistics, To appear_
+  
 - <sup> *</sup>Wang, Y., **Li, Z.**, Bruce, S. (2023+) "[Adaptive Bayesian Sum of Trees Model for Covariate Dependent Spectral Analysis](https://onlinelibrary.wiley.com/doi/10.1111/biom.13763)." _Biometrics, To appear._
 
 - **Li, Z.** (2023) "[Robust Conditional Spectral Analysis of Replicated Time Series](https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0016/0001/a007/index.php)." _Statistics and Its Interface_. 16, 81-96.
