@@ -16,9 +16,9 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 
 - **Li, Z.**, Yue, Y., and Bruce, S. (2023+) "ANOPOW for Replicated Nonstationary Time Series In Experiments." _Annals of Applied Statistics, To appear_
   
-- <sup> *</sup>Wang, Y., **Li, Z.**, Bruce, S. (2023+) "[Adaptive Bayesian Sum of Trees Model for Covariate Dependent Spectral Analysis](https://onlinelibrary.wiley.com/doi/10.1111/biom.13763)." _Biometrics, To appear._
+- <sup> *</sup>Wang, Y., **Li, Z.**, Bruce, S. (2023+) "[Adaptive Bayesian Sum of Trees Model for Covariate Dependent Spectral Analysis](https://onlinelibrary.wiley.com/doi/10.1111/biom.13763)." _Biometrics_, 79, 1826-1839.
 
-- **Li, Z.** (2023) "[Robust Conditional Spectral Analysis of Replicated Time Series](https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0016/0001/a007/index.php)." _Statistics and Its Interface_. 16, 81-96.
+- **Li, Z.** (2023) "[Robust Conditional Spectral Analysis of Replicated Time Series](https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0016/0001/a007/index.php)." _Statistics and Its Interface_, 16, 81-96.
 
 - **Li, Z.**, Bruce, S. and <sup> *</sup>Cai, T. (2022) "[Interpretable Classification of Categorical Time Series Using the Spectral Envelope and Optimal Scalings](https://www.jmlr.org/papers/volume23/21-0369/21-0369.pdf)." _Journal of Machine Learning Research_, 23, 1-31.
 
@@ -50,6 +50,7 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 4. STA 9701: Time Series: Forecasting and Statistical Modeling
 5. STA 9708: Managerial Statistics
 6. STA 9719: Foundations of Statistical Inferences
+7. STA 9797: Advanced Data Analysis
 
 ### At Graduate Center, The City University of New York
 1. STAT 70500: Multivariate Statistical Mehods
