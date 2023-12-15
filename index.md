@@ -12,11 +12,11 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 ## Publications 
 (<sup> *</sup> denotes student authors)
 
-- **Li, Z.** and Wei, W. (2023+) "Measuring the Advantages of Contemporaneous Aggregation in Forecasting." _Submitted_
+- **Li, Z.** and Wei, W. (2024+) "Measuring the Advantages of Contemporaneous Aggregation in Forecasting." _In Revision_
 
-- Dong, Y. and **Li, Z.** (2023+) "A Note on Marginal Coordinate Test in Sufficient Dimension Reduction." _Statistics and Probability Letters, To appear_
+- Dong, Y. and **Li, Z.** (2024+) "A Note on Marginal Coordinate Test in Sufficient Dimension Reduction." _Statistics and Probability Letters, To appear_
 
-- **Li, Z.**, Yue, Y., and Bruce, S. (2023+) "ANOPOW for Replicated Nonstationary Time Series In Experiments." _Annals of Applied Statistics, To appear_
+- **Li, Z.**, Yue, Y., and Bruce, S. (2024+) "ANOPOW for Replicated Nonstationary Time Series In Experiments." _Annals of Applied Statistics, To appear_
   
 - <sup> *</sup>Wang, Y., **Li, Z.**, Bruce, S. (2023) "[Adaptive Bayesian Sum of Trees Model for Covariate Dependent Spectral Analysis](https://onlinelibrary.wiley.com/doi/10.1111/biom.13763)." _Biometrics_, 79, 1826-1839.
 
