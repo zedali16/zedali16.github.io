@@ -12,7 +12,7 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 ## Publications 
 (<sup> *</sup> denotes student authors)
 
-- **Li, Z.** and Wei, W. (2024+) "Measuring the Advantages of Contemporaneous Aggregation in Forecasting." _In Revision_
+- **Li, Z.** and Wei, W. (2024+) "Measuring the Advantages of Contemporaneous Aggregation in Forecasting." _Journal of Forecasting, To appear_
 
 - Dong, Y. and **Li, Z.** (2024+) "A Note on Marginal Coordinate Test in Sufficient Dimension Reduction." _Statistics and Probability Letters, To appear_
 
