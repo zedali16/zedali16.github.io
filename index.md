@@ -14,7 +14,7 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 
 - **Li, Z.** and Wei, W. (2024+) "Measuring the Advantages of Contemporaneous Aggregation in Forecasting." _Journal of Forecasting, To appear_
 
-- **Li, Z.**, Yue, Y., and Bruce, S. (2024+) "ANOPOW for Replicated Nonstationary Time Series In Experiments." _Annals of Applied Statistics, To appear_
+- **Li, Z.**, Yue, Y., and Bruce, S. (2024) "[ANOPOW for Replicated Nonstationary Time Series In Experiments](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-1/ANOPOW-for-replicated-nonstationary-time-series-in-experiments/10.1214/23-AOAS1791.short)." _Annals of Applied Statistics_, 18, 328–349
 
 - Dong, Y. and **Li, Z.** (2024) "[A Note on Marginal Coordinate Test in Sufficient Dimension Reduction](https://www.sciencedirect.com/science/article/pii/S0167715223001712)." _Statistics and Probability Letters_, 204, 109947
   
