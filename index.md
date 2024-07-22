@@ -12,7 +12,7 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 ## Publications 
 (<sup> *</sup> denotes student authors)
 
-- **Li, Z.** and Wei, W. (2024+) "A Cepstral Model for Efficient Spectral Analysis of Replicated Time Series." _Journal of Computational and Graphical Statistics, Submitted. 
+- **Li, Z.** and Dong, Y. (2024+) "A Cepstral Model for Efficient Spectral Analysis of Replicated Time Series." _Journal of Computational and Graphical Statistics_, Submitted. 
 
 - **Li, Z.** and Wei, W. (2024) "Measuring the Advantages of Contemporaneous Aggregation in Forecasting." _Journal of Forecasting_, 43, 1308–1320
 
