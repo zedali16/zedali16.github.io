@@ -12,7 +12,9 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 ## Publications 
 (<sup> *</sup> denotes student authors)
 
-- **Li, Z.** and Wei, W. (2024+) "Measuring the Advantages of Contemporaneous Aggregation in Forecasting." _Journal of Forecasting, To appear_
+- **Li, Z.** and Wei, W. (2024+) "A Cepstral Model for Efficient Spectral Analysis of Replicated Time Series." _Journal of Computational and Graphical Statistics, Submitted. 
+
+- **Li, Z.** and Wei, W. (2024) "Measuring the Advantages of Contemporaneous Aggregation in Forecasting." _Journal of Forecasting, 43, 1308–1320
 
 - **Li, Z.**, Yue, Y., and Bruce, S. (2024) "[ANOPOW for Replicated Nonstationary Time Series In Experiments](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-1/ANOPOW-for-replicated-nonstationary-time-series-in-experiments/10.1214/23-AOAS1791.short)." _Annals of Applied Statistics_, 18, 328–349
 
