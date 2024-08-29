@@ -49,7 +49,7 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 - National Science Foundation - Division of Mathematical Sciences, # 2418850 (Principal Investigator)
 - Eugene M. Lang Junior Faculty Research Fellowship, 2020-2021 (Principal Investigator)
 - PSC CUNY Research Fund, 55 (Principal Investigator)
-- - PSC CUNY Research Fund, 52 (Principal Investigator)
+- PSC CUNY Research Fund, 52 (Principal Investigator)
 
 
 ## Teaching
