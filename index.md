@@ -12,9 +12,9 @@ I earned my Ph.D. in Statistics from the Department of Statistical Science, Temp
 ## Publications 
 (<sup> *</sup> denotes student authors)
 
-- Lee, C. and **Li, Z.** (2024+) "Mean Independent Component Analysis of Multivariate Time Series." _Statistica Sinica_, Submitted. 
+- Lee, C. and **Li, Z.** (2025+) "Mean Independent Component Analysis of Multivariate Time Series." _Statistica Sinica_, Submitted. 
 
-- **Li, Z.** and Dong, Y. (2024+) "A Cepstral Model for Efficient Spectral Analysis of Replicated Time Series." _Journal of Computational and Graphical Statistics_, Accepted. 
+- **Li, Z.** and Dong, Y. (2025) "[A Cepstral Model for Efficient Spectral Analysis of Replicated Time Series](https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2473936)." _Journal of Computational and Graphical Statistics_, 34, 1612-1624. 
 
 - **Li, Z.** and Wei, W. (2024) "Measuring the Advantages of Contemporaneous Aggregation in Forecasting." _Journal of Forecasting_, 43, 1308–1320
 
