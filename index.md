@@ -235,7 +235,7 @@ I earned my Ph.D. in Statistics from Temple University in 2018, advised by Willi
 
 6. Dong, Y. and **Li, Z.** (2024) "[A Note on Marginal Coordinate Test in Sufficient Dimension Reduction](https://www.sciencedirect.com/science/article/pii/S0167715223001712)." *Statistics and Probability Letters*, 206, 110003.
 
-7. *Wang, Y., **Li, Z.**, and Bruce, S. (2023) "[Adaptive Bayesian Sum of Trees Model for Covariate Dependent Spectral Analysis](https://onlinelibrary.wiley.com/doi/10.1111/biom.13763)." *Biometrics*, 79, 2449–2460.
+7. *Wang, Y., **Li, Z.**, and Bruce, S.* (2023) "[Adaptive Bayesian Sum of Trees Model for Covariate Dependent Spectral Analysis](https://onlinelibrary.wiley.com/doi/10.1111/biom.13763)." *Biometrics*, 79, 2449–2460.
 
 8. **Li, Z.** (2023) "[Robust Conditional Spectral Analysis of Replicated Time Series](https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0016/0001/a007/index.php)." *Statistics and Its Interface*, 16, 1–11.
 
