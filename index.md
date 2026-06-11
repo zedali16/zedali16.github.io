@@ -37,8 +37,6 @@ I earned my Ph.D. in Statistics from Temple University in 2018, advised by [Will
 ## Education
 
 - **Ph.D., Statistics**, Temple University, Philadelphia, PA — 2018
-- **M.S., Biostatistics**, Middle Tennessee State University, Murfreesboro, TN — 2013
-- **B.S., Electrical Engineering**, Central South University of Forestry and Technology, Changsha, China — 2010
 
 ## Publications
 
