@@ -1,6 +1,4 @@
----
-title: Zeda Li @ Baruch College, CUNY
----
+
 
 <style>
   .main-content h1, .main-content h2, .main-content h3 { color:#0a4f4d; }
