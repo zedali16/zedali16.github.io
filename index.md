@@ -22,7 +22,7 @@
     left: 0;
     right: 0;
     height: 40px;
-    background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none"><path d="M0,50 Q300,0 600,50 T1200,50 L1200,120 L0,120 Z" fill="%230c5456" opacity="0.3"></path></svg>') repeat-x;
+    background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none"><path d="M0,50 Q300,0 600,50 T1200,50 L1200,120 L0,120 Z" fill="%230c5456"></path></svg>');
     background-size: 600px 40px;
   }
   
@@ -201,9 +201,9 @@
 
 ## About {#about}
 
-I am an Associate Professor of Statistics in the Paul H. Chook Department of Information Systems and Statistics, Zicklin School of Business, Baruch College, CUNY, where I have been on the faculty since 2018. I also serve as Doctoral Faculty at the CUNY Graduate Center.
+I am an Associate Professor of Statistics in the Paul H. Chook Department of Information Systems and Statistics, Zicklin School of Business, Baruch College, CUNY, where I have been on the faculty since 2018.
 
-I learned my Ph.D. in Statistics from Temple University in 2018, advised by William W.S. Wei. My research interests include time series analysis, spectral analysis, Bayesian methods, and high-dimensional statistics. I am particularly interested in developing novel statistical methods for analyzing complex, multivariate time series data with applications to physiological signals and other scientific domains.
+I earned my Ph.D. in Statistics from Temple University in 2018, advised by William W.S. Wei. My research interests include time series analysis, spectral analysis, Bayesian methods, and high-dimensional statistics.
 
 ### Research Interests
 
@@ -223,41 +223,41 @@ I learned my Ph.D. in Statistics from Temple University in 2018, advised by Will
 
 (*Student co-authors are denoted with *)
 
-1. **Li, Z.** and *Xia, Q. (2026+) "Conditional Graphical Models for Replicated Multivariate Time Series." <span class="tag">Submitted</span>
+1. **Li, Z.** and *Xia, Q.* (2026+) "Conditional Graphical Models for Replicated Multivariate Time Series." <span class="tag">Submitted</span>
 
 2. Lee, C. and **Li, Z.** (2026+) "Mean Independent Component Analysis of Multivariate Time Series." *Statistica Sinica*. <span class="tag">To appear</span>
 
-3. **Li, Z.** and Dong, Y. (2025) "[A Cepstral Model for Efficient Spectral Analysis of Replicated Time Series](https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2473936)." *Journal of Computational and Graphical Statistics*, 34, 261–273.
+3. **Li, Z.** and Dong, Y. (2025) "[A Cepstral Model for Efficient Spectral Analysis of Replicated Time Series](https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2473936)." *Journal of Computational and Graphical Statistics*, 34, 161–172.
 
 4. **Li, Z.** and Wei, W. (2024) "Measuring the Advantages of Contemporaneous Aggregation in Forecasting." *Journal of Forecasting*, 43, 1308–1320.
 
-5. **Li, Z.**, Yue, Y., and Bruce, S. (2024) "[ANOPOW for Replicated Nonstationary Time Series in Experiments](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-1/ANOPOW-for-Replicated-Nonstationary-Time-Series-in-Experiments/10.1214/23-AOAS1757.full)." *Annals of Applied Statistics*, 18, 1–24.
+5. **Li, Z.**, Yue, Y., and Bruce, S. (2024) "[ANOPOW for Replicated Nonstationary Time Series in Experiments](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-1/ANOPOW-for-Replicated-Nonstationary-Time-Series-in-Experiments/10.1214/23-AOAS1770.full)." *Annals of Applied Statistics*, 18, 505–529.
 
-6. Dong, Y. and **Li, Z.** (2024) "[A Note on Marginal Coordinate Test in Sufficient Dimension Reduction](https://www.sciencedirect.com/science/article/pii/S0167715223001712)." *Statistics and Probability Letters*, 205, 110008.
+6. Dong, Y. and **Li, Z.** (2024) "[A Note on Marginal Coordinate Test in Sufficient Dimension Reduction](https://www.sciencedirect.com/science/article/pii/S0167715223001712)." *Statistics and Probability Letters*, 206, 110003.
 
-7. *Wang, Y., **Li, Z.**, and Bruce, S. (2023) "[Adaptive Bayesian Sum of Trees Model for Covariate Dependent Spectral Analysis](https://onlinelibrary.wiley.com/doi/10.1111/biom.13763)." *Biometrics*, 79, 2184–2196.
+7. *Wang, Y., **Li, Z.**, and Bruce, S. (2023) "[Adaptive Bayesian Sum of Trees Model for Covariate Dependent Spectral Analysis](https://onlinelibrary.wiley.com/doi/10.1111/biom.13763)." *Biometrics*, 79, 2449–2460.
 
-8. **Li, Z.** (2023) "[Robust Conditional Spectral Analysis of Replicated Time Series](https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0016/0001/a007/index.php)." *Statistics and Its Interface*, 16, 1–14.
+8. **Li, Z.** (2023) "[Robust Conditional Spectral Analysis of Replicated Time Series](https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0016/0001/a007/index.php)." *Statistics and Its Interface*, 16, 1–11.
 
-9. **Li, Z.**, Bruce, S., and *Cai, T. (2022) "[Interpretable Classification of Categorical Time Series Using the Spectral Envelope and Optimal Scalings](https://www.jmlr.org/papers/volume23/21-0369/21-0369.pdf)." *Journal of Machine Learning Research*, 23, 1–32.
+9. **Li, Z.**, Bruce, S., and *Cai, T.* (2022) "[Interpretable Classification of Categorical Time Series Using the Spectral Envelope and Optimal Scalings](https://www.jmlr.org/papers/volume23/21-0369/21-0369.pdf)." *Journal of Machine Learning Research*, 23, 1–40.
 
-10. **Li, Z.**, Rosen, O., Ferrarelli, F., and Krafty, R.T. (2021) "[Adaptive Bayesian Spectral Analysis of High-Dimensional Nonstationary Time Series](https://www.tandfonline.com/doi/full/10.1080/10618600.2020.1819193)." *Journal of Computational and Graphical Statistics*, 30, 1–14.
+10. **Li, Z.**, Rosen, O., Ferrarelli, F., and Krafty, R.T. (2021) "[Adaptive Bayesian Spectral Analysis of High-Dimensional Nonstationary Time Series](https://www.tandfonline.com/doi/full/10.1080/10618600.2020.1807354)." *Journal of Computational and Graphical Statistics*, 30, 607–619.
 
-11. **Li, Z.**, Bruce, S., Wutzke, C., and *Long, Y. (2021) "[Conditional Adaptive Bayesian Spectral Analysis of Replicated Multivariate Time Series](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.202000076)." *Biometrical Journal*, 63, 1–23.
+11. **Li, Z.**, Bruce, S., Wutzke, C., and *Long, Y.* (2021) "[Conditional Adaptive Bayesian Spectral Analysis of Replicated Multivariate Time Series](https://onlinelibrary.wiley.com/doi/full/10.1002/biom.13381)." *Biometrics*, 77, 1346–1358.
 
-12. **Li, Z.** and Dong, Y. (2021) "[Model-Free Variable Selection with Matrix-Valued Predictors](https://www.tandfonline.com/doi/full/10.1080/10618600.2020.1806854)." *Journal of Computational and Graphical Statistics*, 29, 1–12.
+12. **Li, Z.** and Dong, Y. (2021) "[Model-Free Variable Selection with Matrix-Valued Predictors](https://www.tandfonline.com/doi/full/10.1080/10618600.2020.1806854)." *Journal of Computational and Graphical Statistics*, 29, 676–687.
 
-13. **Li, Z.** and Krafty, R.T. (2019) "[Adaptive Bayesian Time-Frequency Analysis of Multivariate Time Series](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2017.1415908)." *Journal of the American Statistical Association*, 114, 384–397.
+13. **Li, Z.** and Krafty, R.T. (2019) "[Adaptive Bayesian Time-Frequency Analysis of Multivariate Time Series](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2017.1415908)." *Journal of the American Statistical Association*, 114, 197–210.
 
-14. Bruce, S., **Li, Z.**, Yang, H.C., and Mukhopadhyay, S. (2019) "[Nonparametric Distributed Learning Architecture for Big Data: Algorithm and Applications](https://ieeexplore.ieee.org/document/8303823)." *IEEE Transactions on Big Data*, 5, 364–376.
+14. Bruce, S., **Li, Z.**, Yang, H.C., and Mukhopadhyay, S. (2019) "[Nonparametric Distributed Learning Architecture for Big Data: Algorithm and Applications](https://ieeexplore.ieee.org/document/8303843)." *IEEE Transactions on Big Data*, 5, 74–87.
 
-15. **Li, Z.** and Bruce, S. (2018) Discussion of "The Statistical Analysis of Acoustic Phonetic Data: Exploring Differences Between Spoken Romance Languages." *Journal of the Royal Statistical Society: Series C*, 67, 1253–1254.
+15. **Li, Z.** and Bruce, S. (2018) Discussion of "The Statistical Analysis of Acoustic Phonetic Data: Exploring Differences Between Spoken Romance Languages." *Journal of the Royal Statistical Society: Series C (Applied Statistics)*, 67, 1175–1176.
 
-16. Dong, Y. and **Li, Z.** (2018) "[On Sliced Inverse Regression with Response Missing at Random](https://www.tandfonline.com/doi/abs/10.1080/10485252.2018.1508677)." *Journal of Nonparametric Statistics*, 30, 876–900.
+16. Dong, Y. and **Li, Z.** (2018) "[On Sliced Inverse Regression with Response Missing at Random](https://www.tandfonline.com/doi/abs/10.1080/10485252.2018.1508677)." *Journal of Nonparametric Statistics*, 30, 842–855.
 
-17. Dong, Y., Xia, Q., Tang, C.Y., and **Li, Z.** (2018) "[On Sufficient Dimension Reduction with Missing Responses Through Estimating Equations](https://www.sciencedirect.com/science/article/pii/S0167715217302213)." *Statistics and Probability Letters*, 137, 29–37.
+17. Dong, Y., Xia, Q., Tang, C.Y., and **Li, Z.** (2018) "[On Sufficient Dimension Reduction with Missing Responses Through Estimating Equations](https://www.sciencedirect.com/science/article/pii/S0167947317301299)." *Computational Statistics and Data Analysis*, 122, 1–17.
 
-18. Esbenshade, A., Sopfe, J., Zhao, Z., **Li, Z.**, Campbell, K., Simmons, J., and Henry, K. (2014) "Overweight Pediatric Cancer Survivors Have a High Risk of Vitamin D Insufficiency." *Pediatric Blood & Cancer*, 61, 1696–1699.
+18. Esbenshade, A., Sopfe, J., Zhao, Z., **Li, Z.**, Campbell, K., Simmons, J., and Henry, K. (2014) "Overweight Pediatric Cancer Survivors Have a High Risk of Vitamin D Insufficiency." *Pediatric Blood & Cancer*, 61, 1696–1702.
 
 ## Software {#software}
 
