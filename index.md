@@ -1,5 +1,4 @@
 ---
-title: Zeda Li @ Baruch College, CUNY
 ---
 
 <style>
