@@ -84,8 +84,8 @@ I am an **Associate Professor of Statistics** in the Paul H. Chook Department of
 
 ## Funding & Grants
 
-- **National Science Foundation, DMS-2418850** (Principal Investigator), $225,444, 2024–2027
-  *Covariate-Assisted Analysis of Spectral Matrices with Applications to Physiological Signals*
+- **National Science Foundation, DMS-2418850** (Principal Investigator), $225,444, 2024–2026
+  *LEAPS-MPS: Covariate-Assisted Analysis of Spectral Matrices with Applications to Physiological Signals*
 - **PSC-CUNY Research Award (Traditional A), TRADA-55-179** (Principal Investigator), 2024–2025
   *Principal Spectral Component Analysis for Replicated Multivariate Time Series*
 - **Eugene M. Lang Junior Faculty Research Fellowship**, Baruch College (Principal Investigator), 2020–2021
