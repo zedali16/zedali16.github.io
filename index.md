@@ -29,9 +29,9 @@ title: Zeda Li @ Baruch College, CUNY
   <a href="#teaching">Teaching</a>
 </nav>
 
-I am an **Associate Professor of Statistics** in the Paul H. Chook Department of Information Systems and Statistics, Zicklin School of Business, Baruch College, CUNY, and Doctoral Faculty at the CUNY Graduate Center.
+I am an Associate Professor of Statistics in the Paul H. Chook Department of Information Systems and Statistics, Zicklin School of Business, Baruch College, CUNY, and Doctoral Faculty at the CUNY Graduate Center.
 
-I earned my Ph.D. in Statistics from Temple University in 2018, advised by [William W.S. Wei](https://sites.temple.edu/wwei/) and [Robert T. Krafty](https://sph.emory.edu/faculty/profile/index.php?FID=robert-krafty-10974). My research develops statistical methodology with applications to business and biomedical studies, and is supported by the National Science Foundation.
+I earned my Ph.D. in Statistics from Temple University in 2018, advised by [William W.S. Wei](https://sites.temple.edu/wwei/) and [Robert T. Krafty](https://sph.emory.edu/faculty/profile/index.php?FID=robert-krafty-10974). 
 
 <p>
 <span class="pill">Time series analysis</span>
@@ -52,14 +52,10 @@ I earned my Ph.D. in Statistics from Temple University in 2018, advised by [Will
 ## Education {#education}
 
 - **Ph.D., Statistics**, Temple University, Philadelphia, PA — 2018
-- **M.S., Biostatistics**, Middle Tennessee State University, Murfreesboro, TN — 2013
-- **B.S., Electrical Engineering**, Central South University of Forestry and Technology, Changsha, China — 2010
 
 ## Publications {#publications}
 
 (<strong>*</strong> denotes student co-authors)
-
-1. **Li, Z.**, Lee, C., and Krafty, R. (2026+) "Dimension Reduction for Covariate-Dependent Time Series through Conditionally Principal Component Analysis." *Journal of the American Statistical Association*. <span class="tag">Submitted</span>
 
 2. **Li, Z.** and \*Xia, Q. (2026+) "Conditional Graphical Models for Replicated Multivariate Time Series." <span class="tag">Submitted</span>
 
