@@ -29,9 +29,7 @@ title: Zeda Li @ Baruch College, CUNY
   <a href="#teaching">Teaching</a>
 </nav>
 
-I am an Associate Professor of Statistics in the Paul H. Chook Department of Information Systems and Statistics, Zicklin School of Business, Baruch College, CUNY, and Doctoral Faculty at the CUNY Graduate Center.
-
-I earned my Ph.D. in Statistics from Temple University in 2018, advised by [William W.S. Wei](https://sites.temple.edu/wwei/) and [Robert T. Krafty](https://sph.emory.edu/faculty/profile/index.php?FID=robert-krafty-10974). 
+I am an Associate Professor of Statistics in the Paul H. Chook Department of Information Systems and Statistics, Zicklin School of Business, Baruch College, CUNY, and Doctoral Faculty at the CUNY Graduate Center. I earned my Ph.D. in Statistics from Temple University in 2018, advised by [William W.S. Wei](https://sites.temple.edu/wwei/) and [Robert T. Krafty](https://sph.emory.edu/faculty/profile/index.php?FID=robert-krafty-10974). 
 
 <p>
 <span class="pill">Time series analysis</span>
